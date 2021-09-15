@@ -1,0 +1,25 @@
+.nav_bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333
+}
+
+li {
+    float: left;
+    display: inline;
+  }
+  
+a {
+    display: block;
+    padding: 14px 16px;
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+  }
+
+.active {
+    background-color: #04AA6D;
+}
+
